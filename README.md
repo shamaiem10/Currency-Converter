@@ -18,7 +18,7 @@ A simple web application for converting currencies, built with HTML, CSS, and Ja
 3. **Enter Values**:
    - Select the currencies you want to convert from and to.
    - Enter the amount you wish to convert.
-   - Click the "Convert" button to see the result.
+   - Click the "Get Exchange Rate" button to see the result.
    - Technologies Used
    - HTML: Structure of the web app
    - CSS: Styling of the web app
